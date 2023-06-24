@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning C++, CSS , java, and python
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Email - Jaidevkhatak@gmail.com
 
 <!---
 jkhatak/jkhatak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
