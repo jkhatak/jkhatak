@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jkhatak
-- 👀 I’m interested in learning C++, CSS , java, and python
-- 🌱 I’m currently learning C
+- 👀 I’m interested in learning java, and python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - Email - Jaidevkhatak@gmail.com
 
